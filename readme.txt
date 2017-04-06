@@ -1,7 +1,10 @@
 16 DECEMBER 2016
 CS25320 Coursework 2016: HTML5 Canvas Game assignment
+Aberystwyth University
+Received mark: 72.8%
 Casual Snake
 @author: Karol Kupinski
+@e-mail:karol.kupinski@gmail.com
 @e-mail:kak40@aber.ac.uk
 
 
@@ -13,7 +16,7 @@ Table of Contents
 
 
 1.List of files
-	Name			Description					Source
+	Name			Description					Source if code is reused
 	1. readme.txt		- this file					
 	2. about.html		- about page			
 	3. help.html		- game desc. + controls desc.
