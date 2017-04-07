@@ -3,6 +3,7 @@ CS25320 Coursework 2016: HTML5 Canvas Game assignment
 Aberystwyth University
 Received mark: 72.8%
 Casual Snake
+http://users.aber.ac.uk/kak40/snake/
 @author: Karol Kupinski
 @e-mail:karol.kupinski@gmail.com
 @e-mail:kak40@aber.ac.uk
